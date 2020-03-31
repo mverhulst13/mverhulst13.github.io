@@ -1,2 +1,4 @@
 body { background-color: black; }
-h1, p {color: aqua;}
+h1, p, h2, ul {color: aqua;}
+h1, p, h2, button {text-align: center;}
+ul {text-align: center; list-style-position: inside}
